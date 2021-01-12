@@ -1,0 +1,70 @@
+MIT,42.3601,-71.0942,https://www.mit.edu,MIT,Massachusetts Institute of Technology (MIT)
+Stanford,37.4275,-122.169,https://www.stanford.edu,Standford,Stanford University
+Harvard,42.3800,-71.1166,https://www.harvard.edu,Harvard,Harvard University
+Oxford,51.7548,-1.2544,https://www.ox.ac.uk,Oxford,Oxford University 
+Caltech,34.1377,-118.1253,https://www.caltech.edu,CalTech,California institute of technology (Caltech)
+Zurich,47.3764,8.5476,https://ethz.ch/en.html,Zurich ETH,Zurich ETH
+Cambridge,52.2043,0.1149,https://www.cam.ac.uk,Cambridge,University of Cambridge 
+Ucl,51.5246,-0.1340,https://www.ucl.ac.uk,UCL,University College London 
+Imperial,51.4988,-0.1749,https://www.imperial.ac.uk,Imperial,Imperial College London 
+Chicago,41.7886,-87.5987,https://www.uchicago.edu,Chicago,University of Chicago
+Nanyang,1.3483,103.6831,https://www.ntu.edu.sg/Pages/home.aspx,Nanyang ,Nanyang Technological University
+National,1.2966,103.7764,http://nus.edu.sg,National Singapore,National University of Singapore
+Princeton,40.3431,-74.6551,https://www.princeton.edu,Princeton,Princeton University
+Cornell,42.4534,-76.4735,https://www.cornell.edu,Cornell,Cornell University
+Upenn,39.9522,-75.1932,https://www.upenn.edu,Upenn,University of Pensylvania
+Tsinghua,40.0000,116.3227,https://www.tsinghua.edu.cn/en/index.htm,Tsinghua,Tsinghua University
+Yale,41.3163,-72.9223,https://www.yale.edu,Yale,Yale University 
+Columbia,40.8075,-73.9626,https://www.columbia.edu,Columbia,Columbia
+Epfl,46.5191,6.5668,https://www.epfl.ch/en/,EPFL,Swiss Federal Institute of Technology Lausanne (EPFL)
+Edinburgh,55.9445,-3.1892,https://www.ed.ac.uk,Edinburgh,The University of Edinburgh
+Michigan,42.2780,-83.7382,https://umich.edu,Michigan,University of Michigan
+Peking,39.9869,116.3059,http://english.pku.edu.cn,Peking,Peking University
+Tokyo,35.7127,139.7620,https://www.u-tokyo.ac.jp/en/,Tokyo,University of Tokyo
+Hopkins,39.3299,-76.6205,https://www.jhu.edu,John Hopkins,John Hopkins University
+Duke,36.0014,-78.9382,https://duke.edu,Duke,Duke University 
+Hongkong,22.2830,114.1371,https://www.hku.hk,Hong Kong ,University of Hong Kong
+Manchester,53.4668,-2.2339,https://www.manchester.ac.uk,Manchester,University of Manchester 
+Berkely,37.8719,-122.2585,https://www.berkeley.edu,UC Berkely,University of California Berkely
+Brown,41.8268,-71.4025,https://www.brown.edu,Brown,Brown University
+Dartmouth,43.7044,-72.2887,https://home.dartmouth.edu,Dartmouth,Dartmouth University 
+Toronto,43.6629,-79.3957,https://www.utoronto.ca,Toronto,University of Toronto
+Northwestern,42.055984,-87.675171,https://www.northwestern.edu,Northwestern,Northwestern University
+Kcl,51.5115,-0.1160,https://www.kcl.ac.uk,KCL,King’s College London 
+Kyoto,35.0262,135.7808,https://www.kyoto-u.ac.jp/en,Kyoto,Kyoto University 
+Ucla,34.0689,-118.4452,https://www.ucla.edu,UCLA,University of California Los Angeles (UCLA)
+Seoul,37.4565,126.9500,https://en.snu.ac.kr,Seoul,Seoul National University 
+Melbourne,-37.7983,144.9610,https://www.unimelb.edu.au,Melbourne,University of Melbourne 
+Nyu,40.7295,-73.9965,https://www.nyu.edu,NYU,New York University (NYU)
+Fudan,31.2974,121.5036,https://www.fudan.edu.cn/en/,Fudan,Fudan University 
+Kaist,36.3721,127.3604,https://www.kaist.ac.kr/en/,Kaist,Korea Advanced Institute of Science and Technology (KAIST)
+Sydney,-33.8886,151.1873,https://www.sydney.edu.au,Sydney,University of Sydney
+Newsouthwales,-33.9173,151.2313,https://www.unsw.edu.au,New South Wales,University of New South Wales
+SanDiego,32.8801,-117.2340,https://ucsd.edu,UC San Diego,University of California San Diego
+Kmitl,13.7299,100.7782,http://kmitl.ac.th/en,KMITL,King Mongkut’s Institute of Technology Ladkrabang (KMITL)
+Chula,13.7386,100.5316,https://www.chula.ac.th/en/,Chula,Chulalonglorn University 
+Mahidol,13.7944,100.3256,https://mahidol.ac.th,Mahidol,Mahidol University
+Thammasat,13.7574,100.4900,https://tu.ac.th,Thammasat ,Thammasat University The Phra Chan Campus
+Lse,51.5144,-0.1165,https://www.lse.ac.uk,LSE,London School of Economics and Political Science
+Queensland,-27.4975,153.0137,https://www.uq.edu.au,Queensland,University of Queensland
+Carnegie,40.4427,-79.943,https://www.cmu.edu,Carnegie Mellon,Carnegie Mellon University
+Bristol,51.4584,-2.6030,https://www.bristol.ac.uk,Bristol,University of Bristol
+Delft,51.9963,4.3759,https://www.tudelft.nl/en/,TU Delft,Delft University of Technology
+Tokyotech,35.6051,139.6835,https://www.titech.ac.jp/english/,TokyoTech,Tokyo Institute of Technology
+Glasgow,55.8642,-4.2518,https://www.gla.ac.uk,Glasgow,University of Glasgow 
+Rice,29.7174,-95.4018,https://www.rice.edu,Rice,Rice University
+Warwick,52.3793,-1.5615,https://warwick.ac.uk,Warwick,University of Warwick
+Amsterdam,52.3558,4.9557,https://www.uva.nl/en?cb,Amsterdam,University of Amsterdam
+Texas,30.2849,-97.7341,https://www.utexas.edu,Texas Austin,University of Texas Austin
+British,49.2606,-123.2460,https://www.ubc.ca,British Columbia,University of British Columbia
+Zhejiang,30.2582,120.1192,https://www.zju.edu.cn/english/,Zhejiang,Zhejiang University
+Munich,48.1497,11.5679,https://www.tum.de/en/,MunichTech,Technical University of Munich
+Georgia,33.7756,-84.3963,https://www.gatech.edu,GeorgiaTech,Georgia Institute of Technology
+Illinois,40.1020,-88.2272,https://www.uic.edu,Illinois,University of Illinois Chicago
+Heidelberg,49.4191,8.6703,https://www.uni-heidelberg.de/en,Heidelberg,Heidelberg University
+Lund,55.7119,13.2035,https://www.lunduniversity.lu.se,Lund,Lund University
+Monash,-37.907803,145.133957,https://www.monash.edu,Monash,Monash University
+Malaya,3.1209,101.6538,https://www.um.edu.my,Malaya,University of Malaya
+Wuhan,30.5928,114.3055,https://en.whu.edu.cn,Wuhan,Wuhan University
+Oregon,44.0448,-123.0726,https://oregonstate.edu,Oregon,Oregon State University
+Georgetown,38.9076,-77.0723,https://www.georgetown.edu,Georgetown,Georgetown University
